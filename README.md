@@ -1,6 +1,6 @@
 # CEPGen
 
-This repository contains the code for the CEP rule generation, and expetiments as described in [PTM+18]. As an example, consider the general centralized CEP architecture: 
+This repository contains the code for the CEP rule generation, and experiments as described in [PTM+18]. As an example, consider the general centralized CEP architecture: 
 
 ![CEP Overview](/figures/HCEP.png)
 
